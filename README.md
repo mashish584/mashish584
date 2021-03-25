@@ -1,8 +1,8 @@
 ### Hi dev 👋 
 
 
-- 🔭 I’m currently working on graphql & prisma
-- 🌱 I’m currently learning system designs 
+- 🔭 Working on graphql & prisma
+- 🌱 Learning system designs 
 - 💬 Open to talk about anything related to JS
 
 <!--
