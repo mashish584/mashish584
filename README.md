@@ -1,9 +1,9 @@
 ### Hi dev 👋 
 
 
-- 🔭 Working on graphql & prisma
-- 🌱 Learning system designs 
-- 💬 Open to talk about anything related to JS
+- 🔭  Working on graphql & prisma
+- 🌱  Learning system designs 
+- 💬  Open to talk about anything related to JS
 
 <!--
 **mashish584/mashish584** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
