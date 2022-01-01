@@ -2,7 +2,7 @@
 
 
 - 🔭  Working on graphql & prisma
-- 🌱  Learning system designs 
+- 🌱  Currently working on rebuilding my portfolio
 - 💬  Open to talk about anything related to JS
 
 <!--
