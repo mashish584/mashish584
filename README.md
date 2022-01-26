@@ -5,6 +5,9 @@
 - 🌱  Currently rebuilding my portfolio
 - 💬  Open to talk about anything related to JS
 
+
+![Ashish Mehra's GitHub stats](https://github-readme-stats.vercel.app/api?username=mashish584&show_icons=true&theme=radical&bg_color=transparent)
+
 <!--
 **mashish584/mashish584** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
