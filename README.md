@@ -1,7 +1,7 @@
 ### Hi dev 👋 
 
 
-- 🔭  Working on graphql, prisma, aws amplify & React Naitve
+- 🔭  Working on graphql, prisma, aws amplify & React Native
 - 🌱  Building Instagram Clone
 - 💬  Open to talk about anything related to JS
 
