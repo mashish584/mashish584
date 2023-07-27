@@ -1,7 +1,7 @@
 ### Hi dev 👋 
 
-
-- 🔭  Working on graphql, prisma, aws amplify & React Native
+- 📱  React Native | Mobile App Developer
+- 🔭  Exploring AWS Amplify, Graphql & Apollo client
 - 💬  Open to talk about anything related to JS
 
 
