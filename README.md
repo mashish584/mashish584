@@ -1,5 +1,5 @@
 ### Hi dev 👋 
-
+🔨 Building app for managing money
 
 <!--
 **mashish584/mashish584** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
