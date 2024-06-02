@@ -1,6 +1,6 @@
 ### Hi dev 👋 
-🔨  Building `your 💰`
-📚  Learning Supabase, OpenAI and prompt engineering   
+🔨  Building `your 💰`  
+📚 Learning Supabase, OpenAI and prompt engineering  
 
 <!--
 **mashish584/mashish584** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
