@@ -1,7 +1,6 @@
 ### Hi dev 👋 
 
-- 🧑‍💻 Building MoneyPal 
-- 🔭 Exploring Supabase
+🧑‍💻 Building MoneyPal in spare time
  
 
 <!--
