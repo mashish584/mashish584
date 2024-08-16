@@ -1,6 +1,4 @@
 ### Hi dev 👋 
-
-🧑‍💻 Building MoneyPal in spare time
  
 
 <!--
