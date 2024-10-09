@@ -21,10 +21,10 @@ I'm a frontend mobile and web developer with 3+ years of professional experience
 
 
 ## 🛠️ Technical Skills
-- **Frontend**: React, React Native, Next.js, SCSS, TypeScript
+- **Frontend**: React, React Native, Next.js, SCSS, TypeScript, Restyle
 - **Animations**: React Native Reanimated, Skia (currently exploring)
-- **Backend**: Node.js, GraphQL, Prisma, Express
-- **Tools**: Xcode, Android Studio, Figma, Firebase
+- **Backend**: Node.js, GraphQL, Prisma, Express, Supabase, Strapi 
+- **Tools**: Xcode, Android Studio, Flipper, Figma, Firebase, Jest, React Testing Library
 - **Currently Exploring**: Swift, iOS Native Development
 
 ## 📚 Education
