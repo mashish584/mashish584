@@ -6,7 +6,7 @@ I'm a frontend mobile and web developer with 3+ years of professional experience
 
 ## 💼 Professional Experience
 ### ByteLearn (Oct 2023 - July 2024)
-- Led the development of innovative features such as the AI Tutor and whiteboard functionalities.
+- Led the integration of innovative features such as the AI Tutor and whiteboard functionalities.
 - Implemented secure user authentication and subscription purchase flows.
 - Integrated Singular for advanced analytics and campaign management.
 - Managed iOS and Android app deployments and collaborated on SEO optimization projects.
